@@ -126,13 +126,6 @@ select dept_no,dname, loc
 from dept
 where dept_no in (select dept_no from emp where ename = 'clark');
 
-SELECT DNAME,LOC
-FROM DEPT
-WHERE DEPT_NO IN (SELECT DEPT_NO
-FROM EMP
-WHERE MGR IN (SELECT EMP_NO
-FROM EMP
-WHERE ENAME='CLARK'));
 
 /* 24) Select all the departmental information for all the managers*/
 select * 
