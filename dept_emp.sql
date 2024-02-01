@@ -315,4 +315,4 @@ from emp e inner join emp m
 on e.sal = m.sal 
 where e.ename = 'scott' and m.ename <> 'scott';
 
-/*49) Display employee name , his date of joining, his manager name & his manager's date of joining */
+
