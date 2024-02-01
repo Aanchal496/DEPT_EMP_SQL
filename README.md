@@ -7,9 +7,10 @@ emp_no - employee number
 ename  - employee name                       
 job - Job of the employee                    
 mgr - Manager ID
-hiredate - Hiring Date of the Employee.
-sal - Salary of the employee.
-comm - Commission earned by the employee.
+
+hiredate - Hiring Date of the Employee
+sal - Salary of the employee
+comm - Commission earned by the employee
 dept_no -  department number     
 
            DEPT:
