@@ -13,7 +13,7 @@ comm - Commission earned by the employee,
 dept_no -  department number                               
 
            DEPT:
-This table consists of 3 columns - 
+This table consists of 3 columns -                                 
 dept_no - department number,                                   
 dname - department name,                               
 loc - Location 
